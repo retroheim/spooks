@@ -1,0 +1,8 @@
+{
+  "bot": {
+    "token": "",
+    "testToken": "",
+    "prefix": "!",
+    "isTest": false
+  }
+}
